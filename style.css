@@ -94,6 +94,18 @@ body {
     font-size: 25px;
 }
 
+#full-dev {
+    border-left: 7px solid;
+    border-image: linear-gradient(orange, red);
+    border-image-slice: 1;
+}
+
+#bady-dev {
+    border-left: 7px solid;
+    border-image: linear-gradient(blue, cyan);
+    border-image-slice: 1;
+}
+
 .footer-section {
     padding: 30px;
     text-align: center;
