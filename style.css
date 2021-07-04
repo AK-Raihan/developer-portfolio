@@ -6,7 +6,7 @@ body {
 
 .banner {
     display: flex;
-    background-image: url(./img/top-banner.png);
+    background-image: url(img/top-banner.png);
     background-repeat: no-repeat;
 
 }
@@ -60,7 +60,7 @@ body {
 .dream {
     padding-top: 50px;
     display: flex;
-    background-image: url(./img/dream-bg.png);
+    background-image: url(img/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
 }
@@ -68,7 +68,7 @@ body {
 /* skill section */
 .skill-section {
     padding: 50px;
-    background-image: url(./img/exp-bg.png);
+    background-image: url(img/exp-bg.png);
     background-repeat: no-repeat;
     background-position: left;
 }
